@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.nationwidechildrens.org/specialties/headache-clinic/headache-causes-and-advice");
 die();
 ?>
