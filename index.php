@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.cheneydoor.com/");
+header("Location: https://www.garagedoors-glensfalls.com/");
 die();
 ?>
